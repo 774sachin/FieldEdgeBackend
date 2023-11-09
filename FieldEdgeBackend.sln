@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldEdgeBackend", "FieldEdgeBackend\FieldEdgeBackend.csproj", "{F73A17BF-F27F-49AE-87A3-B8466ADE5DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73A17BF-F27F-49AE-87A3-B8466ADE5DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73A17BF-F27F-49AE-87A3-B8466ADE5DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73A17BF-F27F-49AE-87A3-B8466ADE5DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73A17BF-F27F-49AE-87A3-B8466ADE5DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9CC945-1018-4D39-A4B7-3BCF2180ECD4}
+	EndGlobalSection
+EndGlobal
